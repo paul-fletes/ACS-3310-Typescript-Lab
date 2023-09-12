@@ -3,6 +3,7 @@
 
 // Write an enum that defines the directions: 
 // North, South, East, West
+// Use a string enum: https://www.typescriptlang.org/docs/handbook/enums.html#string-enums
 
 enum Direction {
 	
