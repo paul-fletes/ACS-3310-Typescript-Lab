@@ -17,10 +17,10 @@ enum KaijuType {
 
 class Kaiju {
 	name: string
-	power: string
+	power: number
 	type: KaijuType
 
-	constructor(name: string, power: string, type: KaijuType) {
+	constructor(name: string, power: number, type: KaijuType) {
 		this.name = name
 		this.power = power
 		this.type = type
